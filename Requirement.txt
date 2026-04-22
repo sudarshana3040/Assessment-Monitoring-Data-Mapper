@@ -1,0 +1,14 @@
+Technical Requirements:-
+
+Python 3.x
+JSON handling
+Computer Vision model (e.g., YOLO) for event detection
+Optional: Flask/Streamlit for live monitoring
+
+
+Data Requirements:-
+
+Candidate ID, Session ID, Question ID
+Event type and confidence score
+Timestamp for each event
+Metadata (optional)
